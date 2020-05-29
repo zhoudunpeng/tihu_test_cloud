@@ -12,6 +12,7 @@
         <module>eureka_backup_1</module>
         <module>eureka_backup_2</module>
         <module>ribbon-service</module>
+        <module>feign-service</module>
     </modules>
     <name>th</name>
     <packaging>pom</packaging>
